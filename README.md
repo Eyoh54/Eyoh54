@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eyoh54
 - 👀 I’m interested in Programming and Game Development
-- 🌱 I’m currently learning Data Analysis with Python and Game Development with Unity
+- 🌱 I’m a Backend Developer
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me kingsleyeyoh10@gmail.com
 
